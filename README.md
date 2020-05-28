@@ -1,4 +1,4 @@
-# Ursus Week 3 Live Session
+# Apis Week 3 Live Session
 
 Welcome to a new week and the wonderful world of JavaScript. We went over various new concepts in JavaScript as well as some reinforcement of some concepts we have already learned.
 
